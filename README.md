@@ -104,10 +104,4 @@ This approach keeps the visualization interpretable in 2D while still reflecting
 - Comparison of linear vs logistic behavior near capacity
 - Interactive visualizations
 
----
-
-## Author
-
-Matt  
-Freelance performing artist exploring data analysis and applied statistics through real-world analogies.
 
